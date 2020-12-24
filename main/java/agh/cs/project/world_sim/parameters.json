@@ -1,0 +1,10 @@
+{
+  "width": 20,
+  "height": 20,
+  "jungleRatioReciprocal": 10,
+  "animalNumber": 5,
+  "grassNumber": 250,
+  "startEnergy": 100,
+  "moveEnergy": 1,
+  "plantEnergy": 15
+}
